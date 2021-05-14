@@ -4,3 +4,7 @@ body {
     height: 800px;
     margin: 0px;
 }
+p {
+    font-family: roboto;
+    font-weight: 700;
+}
